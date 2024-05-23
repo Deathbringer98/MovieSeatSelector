@@ -16,28 +16,4 @@ This project is a simple Java application that simulates a movie theater seating
 javac src/MovieTheater.java
 java -cp src MovieTheater
 ```
-
-# Example Output
-
-Seating Chart:
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 0 0 
-
-Seat reserved successfully.
-Seating Chart:
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 X 0 
-0 0 0 0 0 
-0 0 0 0 0 
-
-Seat already taken.
-Seating Chart:
-0 0 0 0 0 
-0 0 0 0 0 
-0 0 0 X 0 
-0 0 0 0 0 
-0 0 0 0 0 
+![image](https://github.com/Deathbringer98/MovieSeatSelector/assets/73149745/70c03bd7-90d6-4fcb-bd54-bb5b1f719786)
